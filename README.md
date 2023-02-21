@@ -4,8 +4,6 @@
 
 ![DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFSUE-GEOG-36.png "DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002")
 
-##### Module Description #####
-This module is used to learn and then apply dyad interaction modeling using an R-based programming module, with the help of the package 'dyAddon' and open-sourced datasets from the Data of Sets.
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
@@ -15,6 +13,9 @@ Climate Extremes On A Warming Planet...
 
 The module covers data science areas of analyzing data, visualizing data, and drawing conclusions.
 
+![Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions.](GEOG-36-Badge.png "Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions.")
+
+(<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
 
 ##### Folder Structure #####
 
