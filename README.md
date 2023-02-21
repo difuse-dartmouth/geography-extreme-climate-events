@@ -1,11 +1,8 @@
-# data-migration-template
-Template used for data migration, DIFUSE 23W.
+# GOEG36 DIFUSE Module
 
-## SOCY 00 DIFUSE Module (Spring 2020) ##
+## Project Team: Justin Mankin (Professor of Geography), ...
 
-#### Contributors: Jane Doe ('24), Muhammad Aronno ('23), and Professor Craig Silsby (PI) ####
-
-![Sample title slide for a DIFUSE module.](additional/repository_assets/sample_module.JPG)
+![DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFSUE-GEOG-36.png "DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002")
 
 ##### Module Description #####
 This module is used to learn and then apply dyad interaction modeling using an R-based programming module, with the help of the package 'dyAddon' and open-sourced datasets from the Data of Sets.
@@ -13,6 +10,11 @@ This module is used to learn and then apply dyad interaction modeling using an R
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Climate Extremes On A Warming Planet...
+
+The module covers data science areas of analyzing data, visualizing data, and drawing conclusions.
+
 
 ##### Folder Structure #####
 
