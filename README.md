@@ -1,6 +1,6 @@
 # GOEG36 DIFUSE Module
 
-## Project Team: Justin Mankin (Professor of Geography), ...
+## Project Team: Justin Mankin (Professor of Geography), Elizabeth Bauman ('22), Scott Pauls (Professor of Mathematics, DIFUSE PI)
 
 ![DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002](additional/repository_assets/DIFUSE-GEOG-36.png "DIFUSE Data Science Module.  Geography 36: Climate Extremes on a Warming Planet.  Professor Justin Mankin, Dartmouth College.  Funded by NSF IUSE1917002")
 
