@@ -1,1 +1,0 @@
-For misc. files that you find helpful in intial course design
