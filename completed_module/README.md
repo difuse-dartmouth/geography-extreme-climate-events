@@ -1,6 +1,6 @@
 # Climate Extremes on a Warming Planet Data Science Module <a href="https://github.com/difuse-dartmouth/GEOG36_F20/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" style="width: 0.25in;"></a>
 
-This folder contains all the components of the data science module for Dartmouth College's Geography 36: Climate Extremes in a Warming Planet.
+This repository contains all the components of the data science module for Dartmouth College's Geography 36: Climate Extremes in a Warming Planet.
 
 ## Primary Objective
 
