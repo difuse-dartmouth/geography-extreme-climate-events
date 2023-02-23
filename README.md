@@ -21,10 +21,10 @@ For instructors and interested parties, the history of this repository (with det
 ## Folder Structure 
 The folder *completed_module* contains all of the module components.  
 
-The *components* subfolder contains ...
+The *components* subfolder contains the module assignments. 
 
-The *data* subfolder contains ...
+The *data* subfolder contains documentations of the data used in the module.
 
-The *logistics* folder contains ...
+The *logistics* subfolder contains an instructor's guide.
 
 
