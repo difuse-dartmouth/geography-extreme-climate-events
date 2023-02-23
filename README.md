@@ -1,4 +1,4 @@
-# GOEG36 DIFUSE Module
+# GEOG 36 DIFUSE Module
 
 ## Project Team: Justin Mankin (Professor of Geography), Elizabeth Bauman ('22), Scott Pauls (Professor of Mathematics, DIFUSE PI)
 
