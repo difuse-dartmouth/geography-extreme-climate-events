@@ -15,6 +15,7 @@ Climate Extremes On A Warming Planet looks at drought, famine, floods, landslide
 
 (<a href="https://github.com/difuse-dartmouth/.github/blob/8f8f6efff8943871e1fcaa3b6f2daf1531206df6/profile/howto.md">What does this badge mean?</a>)
 
+## [Click here for module materials](completed_module/README.md)
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
 
