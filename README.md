@@ -2,12 +2,12 @@
 
 ## Contributors: Justin Mankin (Professor of Geography), Elizabeth Bauman ('22), Scott Pauls (Professor of Mathematics, DIFUSE PI)
 
-![Extreme Climate Events DIFUSE Module Funded by NSF IUSE1917002](repository-assets/DIFUSE-GEOG36)
+![Extreme Climate Events DIFUSE Module Funded by NSF IUSE1917002](repository-assets/DIFUSE-GEOG36.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
 
-| <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events/archive/refs/heads/main.zip"><img src="/repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
+| <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events/archive/refs/heads/main.zip"><img src="repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
 
@@ -47,7 +47,7 @@ Use this page to get an idea of the timeline of the module, what components are 
 This module was created for a geography course, <a href="https://dartmouth.smartcatalogiq.com/current/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-36">Climate Extremes on a Warming Planet, at Dartmouth College.  The course looks at drought, famine, floods, landslides and other extreme weather events through the lens of climate change. This course has no prerequisites and satisfies a "Science" distributive requirement. Consequently, students from all class years take the course and their mathematical and programming backgrounds are heterogeneous.
 ---
 
-| <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events/archive/refs/heads/main.zip"><img src="/repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
+| <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events/archive/refs/heads/main.zip"><img src="repository-assets/download-all.png" alt="Download the entire module" align="center" style="width: 4in;"></a>| <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="width=2in" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /><br></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. |
 |---------|----------|
 
 For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/geographu-extreme-climate-events/commits/main/).
