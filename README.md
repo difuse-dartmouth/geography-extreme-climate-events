@@ -2,7 +2,7 @@
 
 ## Contributors: Justin Mankin (Professor of Geography), Elizabeth Bauman ('22), Scott Pauls (Professor of Mathematics, DIFUSE PI)
 
-![Extreme Climate Events DIFUSE Module Funded by NSF IUSE1917002](DIFUSE-GEOG36)
+![Extreme Climate Events DIFUSE Module Funded by NSF IUSE1917002](repository-assets/DIFUSE-GEOG36)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
